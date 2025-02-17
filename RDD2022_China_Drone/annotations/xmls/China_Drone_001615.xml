@@ -1,0 +1,22 @@
+<annotation>
+	<folder>images</folder>
+	<filename>China_Drone_001615.jpg</filename>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Repair</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>402</xmin>
+			<ymin>232</ymin>
+			<xmax>496</xmax>
+			<ymax>441</ymax>
+		</bndbox>
+	</object>
+</annotation>
